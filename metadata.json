@@ -1,0 +1,6 @@
+{
+  "name": "Planner",
+  "description": "A smooth, creamy Nordics-inspired Butter Planner and Checklist which translates seamlessly between Korean, Japanese, and English.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
